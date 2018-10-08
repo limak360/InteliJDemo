@@ -41,8 +41,8 @@ class Triangle extends Shape{
     }
     void nowaMetoda(){
         System.out.println("wypisuje wiadomosc w Triangle");
-    }
-}
+        }
+        }
 
 
 class Quadrangle extends Shape{
